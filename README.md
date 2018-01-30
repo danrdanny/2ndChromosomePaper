@@ -2,7 +2,7 @@
 
 Files used to analyze VCF files in The Molecular and Genetic Characterization of Second Chromosome Balancers in Drosophila melanogaster. Questions? Please contact Danny at dem {at} stowers {dot} org.
 
-The scripts require you to have vcf files in directories with the same name as the stocks used in the study. Those stocks and directories are:
+The scripts require you to have vcf files in directories with the same name as the stocks used in the study. For example, the file CyO-2.vcf.gz must exist within the CyO-2 directory. Stocks used in this study are:
 
 <b>Fastq files for these stocks can be found under bioproject PRJNA413446</b><br>
 CyO-1602<br>
