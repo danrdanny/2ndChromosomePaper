@@ -4,8 +4,8 @@ Files used to analyze VCF files in The Molecular and Genetic Characterization of
 
 The scripts require you to have vcf files in directories with the same name as the stocks used in the study. Those stocks and directories are:
 
-Fastq files for these stocks can be found under bioproject PRJNA413446
-CyO-1602
+Fastq files for these stocks can be found under bioproject PRJNA413446<br>
+CyO-1602<br>
 CyO-2
 CyO-3076
 CyO-31
