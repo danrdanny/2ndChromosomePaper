@@ -101,6 +101,6 @@ foreach my $stock (@stocks) {
 	}
 }
 
-open OUTF,">/Users/danny/Dropbox/__PapersInProgress/Balancer-2nd/SNP_Analysis/out_SM1_vs_SM5.diff.tsv";
+open OUTF,">./out_SM1_vs_SM5.diff.tsv";
 print OUTF $output;
 close OUTF;
